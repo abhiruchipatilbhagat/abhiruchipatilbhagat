@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm Abhiruchi Patil Bhagat (she/her), a passionate 20-year-old second-year B.Tech student at Yeshwantrao Chavan College of Engineering in Nagpur. With a fervent interest in machine learning, data analysis, deep learning, generative AI, and natural language processing, I constantly delve into the realms of technology to quench my curiosity and expand my skill set.
 
-Beyond the confines of academia, I thrive on collaborative ventures, enjoying the synergy of teamwork as my friends and I come together to build projects that push the boundaries of innovation. Whether it's participating in hackathons or embarking on personal projects, I relish the opportunity to apply my skills to solve real-world problems and make a tangible impact.
-
-My curiosity extends beyond the realms of machine learning and deep into the intricacies of data structures and algorithms. I find joy in unraveling complex problems, meticulously crafting efficient algorithms, and optimizing solutions for scalability and performance.
-
-Proficient in languages like C, C++, and Python, I leverage frameworks such as PyTorch, TensorFlow, and Beautiful Soup to bring my ideas to life. I believe in the power of continuous learning and am committed to staying abreast of the latest developments in technology.
-
 Let's connect, collaborate, and embark on a journey of exploration and innovation together!
 ## Skills
 
